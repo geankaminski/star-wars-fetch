@@ -1,24 +1,12 @@
-# star-wars-fetch
+<p><h1 align="center">Star Wars Compendium</h1></p>
 
-## Project setup
-```
-yarn install
-```
+# Sobre #
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Aplicação consumindo a [API de Star Wars](https://swapi.dev). Desenvolvida com Vue.js e Bootstrap.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Instalação #
+- Execute ```git clone https://github.com/geankaminski/laravel-react-contacts.git```
+- Execute ```cd laravel-react-contacts```
+- Execute  ```yarn install``` e ```yarn serve```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
