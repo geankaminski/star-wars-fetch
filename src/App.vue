@@ -1,15 +1,13 @@
 <template>
   <div id="app">
-    <b-container >
-      <router-view />
-    </b-container>
+    <router-view />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
-}
+  name: "App",
+};
 </script>
 
 <style>
@@ -25,5 +23,10 @@ html {
   color: #2c3e50;
   margin-top: 60px;
   background-image: url("./assets/space.jpg");
+  color: yellow;
+}
+
+.title {
+  font-size: 3.4em;
 }
 </style>
