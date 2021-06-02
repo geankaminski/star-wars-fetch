@@ -1,4 +1,4 @@
-<p><h1 align="center">Star Wars Compendium</h1></p>
+<p><h1 align="center">Star Wars API Client</h1></p>
 
 # Sobre #
 
